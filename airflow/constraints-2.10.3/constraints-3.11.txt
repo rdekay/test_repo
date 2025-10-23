@@ -513,7 +513,7 @@ oracledb==2.4.1
 ordered-set==4.1.0
 orjson==3.10.11
 oss2==2.19.1
-packaging==24.1
+packaging==23.2
 pandas-gbq==0.24.0
 pandas-stubs==2.2.3.241009
 pandas==2.1.4
